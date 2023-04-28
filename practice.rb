@@ -40,5 +40,3 @@ end
 balance.each do |x, y|
   puts "#{x}'s KelloggCoin is #{y}."
 end
-
-puts balance
